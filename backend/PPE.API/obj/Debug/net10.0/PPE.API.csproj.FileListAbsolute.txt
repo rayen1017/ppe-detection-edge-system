@@ -121,3 +121,6 @@ C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\obj\Debug\net10.0\refin
 C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\obj\Debug\net10.0\PPE.API.pdb
 C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\obj\Debug\net10.0\PPE.API.genruntimeconfig.cache
 C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\obj\Debug\net10.0\ref\PPE.API.dll
+C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferje\ppe-detection-edge-system\backend\PPE.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
